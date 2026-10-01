@@ -1,7 +1,7 @@
 {
   "name": "Itarasa",
   "short_name": "Itarasa",
-  "description": "Itarasa Official Application",
+  "description": "this apps For arasa IT Team, but there's no Team, just one person",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
@@ -13,5 +13,13 @@
       "type": "image/png",
       "purpose": "any maskable"
     }
+  ],
+  "id": "151199bytheking",
+  "dir": "auto",
+  "lang": "id",
+  "orientation": "portrait",
+  "prefer_related_applications": true,
+  "categories": [
+    "developer tools"
   ]
 }
