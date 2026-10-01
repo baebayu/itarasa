@@ -1,51 +1,17 @@
 {
   "name": "Itarasa",
   "short_name": "Itarasa",
-  "description": "Itarasa Official Application untuk Pusat oleh oleh Mojokerto",
+  "description": "Itarasa Official Application",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
-  "lang": "id",
-  "dir": "ltr",
-  "orientation": "portrait",
-  "scope": "/",
   "icons": [
     {
-      "src": "/logo.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
     }
-  ],
-  "screenshots": [
-  {
-    "src": "/logo.png",
-    "sizes": "512x512",
-    "type": "image/png",
-    "form_factor": "wide"
-  },
-  {
-    "src": "/logo.png",
-    "sizes": "512x512",
-    "type": "image/png",
-    "form_factor": "narrow"
-  }
-]
-  "shortcuts": [
-    {
-      "name": "Lihat Produk",
-      "short_name": "Produk",
-      "description": "Jelajahi pilihan oleh-oleh",
-      "url": "/",
-      "icons": [
-        {
-          "src": "/icon-512.png",
-          "sizes": "512x512",
-          "type": "image/png"
-        }
-      ]
-    }
-  ],
-  "id": "com.itarasa.app"
+  ]
 }
