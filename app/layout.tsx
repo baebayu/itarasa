@@ -5,7 +5,9 @@ import Navbar from '@/components/Navbar'
 
 const inter = Inter({ subsets: ['latin'] })
 
+
 export const metadata: Metadata = {
+  manifest: "/manifest.json",
   title: 'IT Support Dashboard - Arasa Store',
   description: 'Internal IT Service Management for Arasa Store',
   themeColor: '#ffffff',
