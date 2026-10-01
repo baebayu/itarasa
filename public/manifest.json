@@ -20,5 +20,13 @@
   "orientation": "portrait",
   "categories": [
     "developer tools"
-  ]
+  ],
+  "screenshots": [
+  {
+    "src": "/ss1.png",
+    "sizes": "1080x1920",
+    "type": "image/png",
+    "form_factor": "narrow"
+  }
+]
 }
