@@ -1,6 +1,6 @@
 {
-  "name": "Itarasa",
-  "short_name": "Itarasa",
+  "name": "itteam",
+  "short_name": "IT Management",
   "description": "Itarasa Official Application",
   "start_url": "/",
   "display": "standalone",
@@ -13,5 +13,12 @@
       "type": "image/png",
       "purpose": "any maskable"
     }
+  ],
+  "id": "com.itarasa.app",
+  "dir": "ltr",
+  "lang": "id",
+  "orientation": "portrait",
+  "categories": [
+    "developer tools"
   ]
 }
