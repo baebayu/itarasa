@@ -32,7 +32,7 @@ export default function Navbar() {
         <Link href="/add" className="bg-[#8B1C31] text-white p-4 rounded-full shadow-lg shadow-[#8B1C31]/30 -mt-10 border-4 border-slate-50 transition-transform active:scale-95">
           <Plus className="w-7 h-7" strokeWidth={3} />
         </Link>
-
+//test coomit
         <Link href={navItems[2].path} className={`${pathname === navItems[2].path ? 'text-[#8B1C31]' : 'text-slate-400'}`}>
           <IconTasks className="w-6 h-6" strokeWidth={2.5} />
         </Link>
