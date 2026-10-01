@@ -1,25 +1,36 @@
 {
   "name": "Itarasa",
   "short_name": "Itarasa",
-  "description": "this apps For arasa IT Team, but there's no Team, just one person",
+  "description": "Itarasa Official Application untuk Pusat oleh oleh Mojokerto",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
+  "lang": "id",
+  "dir": "ltr",
+  "orientation": "portrait",
+  "scope": "/",
   "icons": [
     {
-      "src": "/icon-512.png",
+      "src": "/logo.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
     }
   ],
-  "id": "151199bytheking",
-  "dir": "auto",
-  "lang": "id",
-  "orientation": "portrait",
-  "prefer_related_applications": true,
-  "categories": [
-    "developer tools"
+  "shortcuts": [
+    {
+      "name": "Lihat Produk",
+      "short_name": "Produk",
+      "description": "Jelajahi pilihan oleh-oleh",
+      "url": "/",
+      "icons": [
+        {
+          "src": "/icon-512.png",
+          "sizes": "512x512",
+          "type": "image/png"
+        }
+      ]
+    }
   ]
 }
