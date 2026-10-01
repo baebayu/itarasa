@@ -18,6 +18,20 @@
       "purpose": "any maskable"
     }
   ],
+  "screenshots": [
+  {
+    "src": "/logo.png",
+    "sizes": "512x512",
+    "type": "image/png",
+    "form_factor": "wide"
+  },
+  {
+    "src": "/logo.png",
+    "sizes": "512x512",
+    "type": "image/png",
+    "form_factor": "narrow"
+  }
+]
   "shortcuts": [
     {
       "name": "Lihat Produk",
@@ -32,5 +46,6 @@
         }
       ]
     }
-  ]
+  ],
+  "id": "com.itarasa.app"
 }
